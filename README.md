@@ -1,4 +1,7 @@
-The Postagger Similarity Program (w2v_similarity_c.py)
+## Gensim Word2vec Solutions
+
+
+# The Postagger Similarity Program (w2v_similarity_c.py)
 
 @Author: Tibor Teske for Acoli
 
@@ -23,7 +26,7 @@ an example of the required files is included (myvecs.kv, all-pos.txt, raw-senten
 ________________________________________________________________________________________________________________________________________
 
 
-The Similarity Sentence Program (w2v_similarity_sentence.py)
+# The Similarity Sentence Program (w2v_similarity_sentence.py)
 
 @Author: Tibor Teske for Acoli
 
