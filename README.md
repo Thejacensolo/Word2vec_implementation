@@ -1,4 +1,4 @@
-#The Postagger Similarity Program (w2v_similarity_c.py)
+The Postagger Similarity Program (w2v_similarity_c.py)
 
 @Author: Tibor Teske for Acoli
 
@@ -20,10 +20,10 @@ IMPORTANT: every single Entry in your input file has to match 1 to 1 wih your Po
 
 an example of the required files is included (myvecs.kv, all-pos.txt, raw-sentence.txt)
 
+________________________________________________________________________________________________________________________________________
 
 
-
-#The Similarity Sentence Program (w2v_similarity_sentence.py)
+The Similarity Sentence Program (w2v_similarity_sentence.py)
 
 @Author: Tibor Teske for Acoli
 
